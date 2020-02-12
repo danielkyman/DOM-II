@@ -214,6 +214,7 @@ img {
   font-size: 1.6rem;
   color: #212529;
   text-decoration: none;
+  transition: all 0.2s ease-in;
 }
 .footer {
   width: 100%;
